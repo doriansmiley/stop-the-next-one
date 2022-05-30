@@ -14,14 +14,18 @@ Once received law enforcement can request the evidence and ID verification from 
 This is an open source project that seeks to evolve into a non-profit. We will never monetize, or attempt to monetize, this project.
 
 # Tech Stack
-This project will be created using Unity using the [Game Plumbing Framework](https://gameplumbers.com/). C# developers with Unity experience are encourage
+This project will be created using Unity and the [Game Plumbing Framework](https://gameplumbers.com/). C# developers with Unity experience are encourage
 to get involved. We also need data scientists and ML experts to help us build models to score case files. 
 If you are interested in participating, please fork this repo and review the project roadmap and open issues. Be sure to join our [Discord](https://discord.gg/8bNdFXrYBa).
 
 # Legal
 If you are a lawyer with experience in criminal prosecution, defense, or civil liberties cases you are encouraged to reach out to us on our [Discord](https://discord.gg/8bNdFXrYBa).
-We need your help to build the best possible system that is compliant with all local laws.
+We need your help to build the best possible system that is compliant with all local laws and preserves civil liberties.
 
 # Industry Support
 If you would like to donate developers, technology, or infrastructure to this project please reach out on the [Discord](https://discord.gg/8bNdFXrYBa).
 Please fork this repo and contribute to open issues.
+
+# Law Enforcement
+If you are a member of law enforcement we need your help. We need to understand operations, systems integration, 
+and security requirements. Please reach out on the [Discord](https://discord.gg/8bNdFXrYBa).
